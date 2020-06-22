@@ -1,0 +1,27 @@
+{
+  "name": "@dothiv/domain-check",
+  "version": "0.0.0-development",
+  "description": "Checks a list of domain names whether they still work",
+  "main": "check.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dothiv/domain-check.git"
+  },
+  "keywords": [
+    "dotHIV",
+    "TLD",
+    "Domain"
+  ],
+  "author": "dotHIV Initiative | dothiv.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dothiv/domain-check/issues"
+  },
+  "homepage": "https://github.com/dothiv/domain-check#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
